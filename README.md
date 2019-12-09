@@ -11,7 +11,7 @@ Installation:
 *   1. Download the plugin in zip file.
 *   2. Add the plugin to your wordpress.
 *   3. Activate the plugin.
-*   4. Enjoy!
+*   4. Enjoy!.
 
 
 
@@ -35,5 +35,3 @@ B) Installation B
 == Frequently Asked Questions ==
 
   If you want to contact with me and send me a feeback, you can make it edulinkx@gmail.com
-
-  
