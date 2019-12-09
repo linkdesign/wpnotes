@@ -9,7 +9,7 @@ and you will have an option in the menu to add your notes to your project.
 Installation:
 
 *   1. Download the plugin in zip file.
-*   2. Add the plugin to your wordpress.
+*   2. Add the plugin to your wordpress..
 *   3. Activate the plugin.
 *   4. Enjoy!.
 
