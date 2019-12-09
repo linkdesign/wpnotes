@@ -1,4 +1,4 @@
-# wpnotes
+# WPNOTES - Wordpress Notes Plugin by Eduardo Díaz
 This is a plugin for add your notes to wordpress in a simple way.
 
 == Description ==
