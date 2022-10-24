@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              www.edulink.xyz
+ * @link              https://diazblanco.com
  * @since             1.0.0
  * @package           Notes
  *
  * @wordpress-plugin
  * Plugin Name:       Notes in wordpress
- * Plugin URI:        www.edulink.yxz
+ * Plugin URI:        https://diazblanco.com
  * Description:       Plugin for add notes in your administration wordpress page.
  * Version:           1.0.0
  * Author:            Eduardo Díaz
- * Author URI:        www.edulink.xyz
+ * Author URI:        https://diazblanco.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       edulink
