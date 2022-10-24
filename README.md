@@ -34,4 +34,4 @@ B) Installation B
 
 == Frequently Asked Questions ==
 
-  If you want to contact with me and send me a feeback, you can make it edulinkx@gmail.com
+  If you want to contact with me and send me a feeback, you can make it eduardo@diazblanco.com
